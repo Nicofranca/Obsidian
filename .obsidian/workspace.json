@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b831b714d70929c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9726b872a07c0cdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78f13be3699bc0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WMS/5S.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5S"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aba7dbac403aa7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7036c55a37b4377b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ae569943c9ce96f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "30ec0de24c84fcc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "37c67504bdf4f030",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "deae4bce79aed3d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07b3d487e52c447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c7ad36a5364bb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WMS/5S.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 5S"
+            }
+          },
+          {
+            "id": "850766bdcff03cb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WMS/5S.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 5S"
+            }
+          },
+          {
+            "id": "48227eee61e43809",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fdec70608a075b6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "79911780465450ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WMS/5S.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 5S"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "78f13be3699bc0f2",
+  "lastOpenFiles": [
+    "Pasted image 20260429164508.jpg",
+    "WMS/Estabilidade Básica.md",
+    "WMS/5S.md",
+    "WMS/Cultura WEG.md",
+    "WMS/WMS.md",
+    "WMS/Evolução dos Sistemas/Evolução dos Sistemas de Gestão da Manufatura.md",
+    "WMS/10 Principios WEG.md",
+    "WMS/Evolução dos Sistemas",
+    "WMS/Evolução dos Sistemas/Perda x Desperdício.md",
+    "Sem título.md",
+    "WMS/Evolução dos Sistemas/Fordismo.md",
+    "WMS/Evolução dos Sistemas/Lean Manufacturing.md",
+    "WMS/Evolução dos Sistemas/Len Six Sigma.md",
+    "WMS/Evolução dos Sistemas/Toyota - TPS.md",
+    "WMS/Evolução dos Sistemas/WCM - Word Class Menufacture.md",
+    "Sem título.base",
+    "Bem-vindo.md",
+    "WMS"
+  ]
+}
