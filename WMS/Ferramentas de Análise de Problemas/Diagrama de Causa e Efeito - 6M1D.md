@@ -13,3 +13,13 @@
 - Descrever o problema e efeito
 - Contruir Diagrama
 - Colocar as causas resultantes do brainstorm
+
+
+
+
+
+
+
+
+
+[[WMS]]

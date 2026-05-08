@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WMS/Kaizen WEG/Metodologia A3.md",
+                "file": "WMS/Evolução dos Sistemas/Toyota - TPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metodologia A3"
+              "title": "Toyota - TPS"
             }
           }
         ]
@@ -185,25 +185,26 @@
   },
   "active": "78f13be3699bc0f2",
   "lastOpenFiles": [
+    "WMS/Evolução dos Sistemas/WCM - Word Class Menufacture.md",
     "WMS/Ferramentas de Análise de Problemas/5 por quês.md",
-    "WMS/Kaizen WEG/Metodologia A3.md",
-    "WMS/Ferramentas de Análise de Problemas/Diagrama de Causa e Efeito - 6M1D.md",
     "WMS/Ferramentas de Análise de Problemas/Brainstorm.md",
+    "WMS/Ferramentas de Análise de Problemas/Diagrama de Causa e Efeito - 6M1D.md",
     "WMS/Ferramentas de Análise de Problemas/Grafico de Pareto.md",
     "WMS/Ferramentas de Análise de Problemas/Metodologia 5G.md",
     "WMS/Ferramentas de Análise de Problemas/O que é Problema.md",
-    "WMS/Ferramentas de Análise de Problemas/Sem título.md",
     "WMS/Kaizen WEG/Kaizen.md",
-    "WMS/Ferramentas de Análise de Problemas",
-    "WMS/WMS.md",
-    "WMS/MTM - Metodos e Tempos.md",
-    "WMS/KAI & KPI.md",
-    "WMS/Gerenciamento de Rotina - GR.md",
-    "WMS/Estabilidade Básica.md",
-    "WMS/Cultura WEG.md",
-    "WMS/Agregação de Valor.md",
-    "WMS/10 Principios WEG.md",
+    "WMS/Ferramentas de Análise de Problemas/Sem título.md",
+    "WMS/Kaizen WEG/Metodologia A3.md",
     "WMS/5S.md",
+    "WMS/10 Principios WEG.md",
+    "WMS/Agregação de Valor.md",
+    "WMS/Cultura WEG.md",
+    "WMS/Estabilidade Básica.md",
+    "WMS/Gerenciamento de Rotina - GR.md",
+    "WMS/KAI & KPI.md",
+    "WMS/MTM - Metodos e Tempos.md",
+    "WMS/WMS.md",
+    "WMS/Ferramentas de Análise de Problemas",
     "WMS/Kaizen WEG",
     "Pasted image 20260429164508.jpg",
     "WMS/Evolução dos Sistemas/Evolução dos Sistemas de Gestão da Manufatura.md",
@@ -214,7 +215,6 @@
     "WMS/Evolução dos Sistemas/Lean Manufacturing.md",
     "WMS/Evolução dos Sistemas/Len Six Sigma.md",
     "WMS/Evolução dos Sistemas/Toyota - TPS.md",
-    "WMS/Evolução dos Sistemas/WCM - Word Class Menufacture.md",
     "Sem título.base",
     "WMS"
   ]
