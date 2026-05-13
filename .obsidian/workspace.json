@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WMS/Evolução dos Sistemas/Toyota - TPS.md",
+                "file": "HUB-SENAI/Back-End/Fluxo de Mapa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toyota - TPS"
+              "title": "Fluxo de Mapa"
             }
           }
         ]
@@ -185,6 +185,18 @@
   },
   "active": "78f13be3699bc0f2",
   "lastOpenFiles": [
+    "HUB-SENAI/Back-End/Ideias.md",
+    "HUB-SENAI/Back-End/Fluxo de Mapa.md",
+    "HUB-SENAI/Back-End/Entidades.md",
+    "HUB-SENAI/Back-End/BD - Postgres.md",
+    "HUB-SENAI/Back-End/Requisitos para Core.md",
+    "HUB-SENAI/Back-End/Arquitetura.md",
+    "HUB-SENAI/HUB-SENAI.md",
+    "Pasted image 20260429164508.jpg",
+    "HUB-SENAI/Front-End",
+    "HUB-SENAI/Back-End",
+    "HUB-SENAI",
+    "WMS/Evolução dos Sistemas/Toyota - TPS.md",
     "WMS/Evolução dos Sistemas/WCM - Word Class Menufacture.md",
     "WMS/Ferramentas de Análise de Problemas/5 por quês.md",
     "WMS/Ferramentas de Análise de Problemas/Brainstorm.md",
@@ -203,18 +215,9 @@
     "WMS/Gerenciamento de Rotina - GR.md",
     "WMS/KAI & KPI.md",
     "WMS/MTM - Metodos e Tempos.md",
-    "WMS/WMS.md",
     "WMS/Ferramentas de Análise de Problemas",
     "WMS/Kaizen WEG",
-    "Pasted image 20260429164508.jpg",
-    "WMS/Evolução dos Sistemas/Evolução dos Sistemas de Gestão da Manufatura.md",
     "WMS/Evolução dos Sistemas",
-    "WMS/Evolução dos Sistemas/Perda x Desperdício.md",
-    "Sem título.md",
-    "WMS/Evolução dos Sistemas/Fordismo.md",
-    "WMS/Evolução dos Sistemas/Lean Manufacturing.md",
-    "WMS/Evolução dos Sistemas/Len Six Sigma.md",
-    "WMS/Evolução dos Sistemas/Toyota - TPS.md",
     "Sem título.base",
     "WMS"
   ]
