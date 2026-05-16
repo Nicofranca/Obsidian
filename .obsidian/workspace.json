@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUB-SENAI/Back-End/Fluxo de Mapa.md",
+                "file": "HUB-SENAI/Back-End/Requisitos/RF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluxo de Mapa"
+              "title": "RF"
             }
           }
         ]
@@ -186,17 +186,18 @@
   "active": "78f13be3699bc0f2",
   "lastOpenFiles": [
     "HUB-SENAI/Back-End/Ideias.md",
-    "HUB-SENAI/Back-End/Requisitos para Core.md",
     "HUB-SENAI/Back-End/Requisitos/RF.md",
     "HUB-SENAI/Back-End/Requisitos/RN.md",
-    "HUB-SENAI/Back-End/Fluxo de Mapa.md",
-    "HUB-SENAI/Back-End/Requisitos",
+    "Sem título.md",
+    "HUB-SENAI/Back-End/Arquitetura.md",
     "HUB-SENAI/Back-End/BD - Postgres.md",
     "HUB-SENAI/Back-End/Entidades.md",
+    "HUB-SENAI/Back-End/Fluxo de Mapa.md",
+    "HUB-SENAI/Back-End/Requisitos para Core.md",
+    "HUB-SENAI/Back-End/Requisitos",
     "Processos de Desinvolvimento -/Ideias Produto.md",
     "Processos de Desinvolvimento -/Introducao a Padroes.md",
     "Processos de Desinvolvimento -",
-    "HUB-SENAI/Back-End/Arquitetura.md",
     "HUB-SENAI/HUB-SENAI.md",
     "Pasted image 20260429164508.jpg",
     "HUB-SENAI/Front-End",
@@ -216,7 +217,6 @@
     "WMS/5S.md",
     "WMS/10 Principios WEG.md",
     "WMS/Agregação de Valor.md",
-    "WMS/Cultura WEG.md",
     "WMS/Ferramentas de Análise de Problemas",
     "WMS/Kaizen WEG",
     "WMS/Evolução dos Sistemas",
