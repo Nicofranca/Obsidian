@@ -1,0 +1,7 @@
+- Levar a cultura WEG aos terceiros e fornecedores
+- Compartilhar as melhores tecnicas
+- Ex:
+	- Gerenciamento da Rotina
+	- Estabilidade de Processos
+	- Kaizen
+	- 5s
