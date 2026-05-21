@@ -6,4 +6,37 @@
 	- Zero Erros
 	- Zero Disperdicio
 - Sustentar o crescimento da empresa sem necessidade de aumento do BackOffice
-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[WMS]]

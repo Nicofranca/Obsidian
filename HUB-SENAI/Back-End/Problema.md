@@ -7,3 +7,38 @@ O segundo problema é dinâmico. Uma mesma sala pode ser usada por turmas difere
 Pensamos numa solucao onde o grid lógico — que o back-end usa para constraints e queries — não precisa ser necessariamente igual ao layout visual que o usuário vê na tela. Salas com formatos irregulares(ex: uma sala padrao com 3 linhas de mesa, separadas por um espaco, cada mesa possui 4 lugares, entao vao ter 6 mesas  24 lugares para assentos, porem, existem salas com com layouts diferentes, onde possui uma mesa com 2 cadeiras ao mesmo tempo que na mesma sala tem uma mesa com 6 lugares e assim por diante), não se encaixam bem numa grade retangular renderizada diretamente. Se o front-end simplesmente desenhar o grid como uma tabela, a representação visual fica incorreta para salas com geometria diferente.
 
 Como podemos solucionar esse problema de representacao e alocacao, tanto no back como no front? Tem alguma ideia?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[HUB-SENAI]]
