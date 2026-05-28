@@ -11,13 +11,32 @@
             "id": "21194f584836cda4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Alguma coisa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alguma coisa"
+            }
+          },
+          {
+            "id": "90c4a15ff72d4441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Comp/Avaliação Prática.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avaliação Prática"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "deae4bce79aed3d2",
@@ -179,8 +199,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "21194f584836cda4",
+  "active": "90c4a15ff72d4441",
   "lastOpenFiles": [
+    "HUB-SENAI/Back-End/Ideias.md",
+    "Cloud Comp/Avaliação Prática.md",
+    "Cloud Comp",
+    "HUB-SENAI/Back-End/Problema.md",
+    "HUB-SENAI/HUB-SENAI.md",
+    "HUB-SENAI/Back-End/Requisitos para Core.md",
+    "HUB-SENAI/Back-End/Fluxo de Mapa.md",
+    "HUB-SENAI/Back-End/Entidades.md",
+    "HUB-SENAI/Back-End/BD - Postgres.md",
+    "HUB-SENAI/Back-End/Arquitetura.md",
+    "HUB-SENAI/Back-End/Requisitos/RN.md",
+    "HUB-SENAI/Back-End/Requisitos/RF.md",
+    "Sla.md",
     "Alguma coisa.md",
     "WMS/5S.md",
     "Pasted image 20260429164508.jpg.md",
@@ -193,16 +226,6 @@
     "WMS/Office.md",
     "WMS/Evolução dos Sistemas/Evolução dos Sistemas de Gestão da Manufatura.md",
     "WMS/WMS.md",
-    "HUB-SENAI/Back-End/Requisitos/RF.md",
-    "HUB-SENAI/Back-End/Requisitos/RN.md",
-    "HUB-SENAI/Back-End/Arquitetura.md",
-    "HUB-SENAI/Back-End/Entidades.md",
-    "HUB-SENAI/Back-End/Fluxo de Mapa.md",
-    "HUB-SENAI/Back-End/Ideias.md",
-    "HUB-SENAI/Back-End/Problema.md",
-    "HUB-SENAI/Back-End/Requisitos para Core.md",
-    "HUB-SENAI/Back-End/BD - Postgres.md",
-    "HUB-SENAI/HUB-SENAI.md",
     "WMS/Kaizen WEG/Metodologia A3.md",
     "HUB-SENAI/Back-End/Requisitos",
     "Processos de Desinvolvimento -",
@@ -213,12 +236,9 @@
     "WMS/Evolução dos Sistemas/Toyota - TPS.md",
     "WMS/Evolução dos Sistemas/WCM - Word Class Menufacture.md",
     "WMS/Ferramentas de Análise de Problemas/5 por quês.md",
-    "WMS/Ferramentas de Análise de Problemas/Brainstorm.md",
-    "WMS/Ferramentas de Análise de Problemas/Diagrama de Causa e Efeito - 6M1D.md",
     "WMS/Ferramentas de Análise de Problemas",
     "WMS/Kaizen WEG",
     "WMS/Evolução dos Sistemas",
-    "Sem título.base",
-    "WMS"
+    "Sem título.base"
   ]
 }
