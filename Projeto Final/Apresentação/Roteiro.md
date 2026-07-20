@@ -1,0 +1,16 @@
+- Abrir Perfil PROFESSOR:
+	- Selecionar sala e turma;
+		- INFOS:
+			- Aparece somente as turmas que sao vinculadas aquele professor;
+			- Turmas que estão vinculadas ao professor;
+	- Mostrar "desenho da sala"
+		- Explicar diferentes layouts de salas no CTW
+	- Modo edição:
+		- Explicar que uma turma que ainda não possui mapa de sala definido, sistema "cria um mapa" por ordem alfabética.
+		- Colocar alguns alunos no banco e ir alterando
+		- Mostrar verificação de Alocação de assentos
+		- Botão de "Limpar Mapa"
+		- Verificação de "Descartar Alterações"
+		- Salvar o mapa
+- Mostrar alterações no modo Aluno
+	- 
