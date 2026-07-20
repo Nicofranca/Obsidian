@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "deae4bce79aed3d2",
@@ -202,18 +201,20 @@
   },
   "active": "90c4a15ff72d4441",
   "lastOpenFiles": [
+    "Projeto Final/Back/Login.md",
+    "Projeto Final/Back/Rascunho.md",
+    "Projeto Final/Front/Issues/Fluxo.md",
+    "Projeto Final/Front/Issues/Problemas.md",
     "Projeto Final/Front/Refatore.md",
+    "{42C9A471-3971-426F-8B3D-05E38CF20AD9}.png",
+    "{29909230-587A-4E2D-8146-1450869F90E5}.png",
+    "{A2587297-9E0D-4D3A-BD54-704F3DB6EE6C}.png",
+    "{F8B1E727-1BF7-4DBE-AA89-1A6D2A2A600A}.png",
+    "Sla.md",
+    "Alguma coisa.md",
     "Projeto Final/Apresentação/Roteiro.md",
     "Projeto Final/Apresentação",
-    "Projeto Final/Front/Issues/Problemas.md",
-    "{A2587297-9E0D-4D3A-BD54-704F3DB6EE6C}.png",
-    "{29909230-587A-4E2D-8146-1450869F90E5}.png",
-    "Projeto Final/Back/Rascunho.md",
-    "Projeto Final/Back/Login.md",
     "Projeto Final/Back/Token GITHUB.md",
-    "{F8B1E727-1BF7-4DBE-AA89-1A6D2A2A600A}.png",
-    "{42C9A471-3971-426F-8B3D-05E38CF20AD9}.png",
-    "Projeto Final/Front/Issues/Fluxo.md",
     "Projeto Final/Front/Arquivos",
     "Projeto Final/Back/Release/Tasks",
     "Projeto Final/Back/Release",
@@ -235,15 +236,12 @@
     "HUB-SENAI/Back-End/Arquitetura.md",
     "HUB-SENAI/Back-End/Requisitos/RN.md",
     "HUB-SENAI/Back-End/Requisitos/RF.md",
-    "Sla.md",
-    "Alguma coisa.md",
     "WMS/5S.md",
     "Pasted image 20260429164508.jpg.md",
     "2026-05-18.md",
     "Processos de Desinvolvimento -/Ideias Produto.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
-    "Processos de Desinvolvimento -/Introducao a Padroes.md",
     "Pasted image 20260429164508.jpg"
   ]
 }
