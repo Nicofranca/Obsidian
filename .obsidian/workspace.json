@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto Final/Apresentação/Roteiro.md",
+                "file": "Projeto Final/Back/Rascunho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roteiro"
+              "title": "Rascunho"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "90c4a15ff72d4441",
   "lastOpenFiles": [
+    "Projeto Final/Apresentação/Roteiro.md",
     "Projeto Final/Back/Login.md",
     "Projeto Final/Back/Rascunho.md",
     "Projeto Final/Front/Issues/Fluxo.md",
@@ -212,7 +213,6 @@
     "{F8B1E727-1BF7-4DBE-AA89-1A6D2A2A600A}.png",
     "Sla.md",
     "Alguma coisa.md",
-    "Projeto Final/Apresentação/Roteiro.md",
     "Projeto Final/Apresentação",
     "Projeto Final/Back/Token GITHUB.md",
     "Projeto Final/Front/Arquivos",
